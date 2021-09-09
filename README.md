@@ -1,6 +1,6 @@
 ### Mateus Ferraz
 
-- 💻 Sou estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 🗺 Brasil-PE
 - 🌱 Atualmente estou aprendendo Python, Dart e Flutter
 
