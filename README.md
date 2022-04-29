@@ -15,7 +15,7 @@
   <img align="center" alt="Mateus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Mateus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Mateus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Mateus-code" height="128" width="128" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47cbk6vn38ep6nnh0383cgrespqvrf38mxeoidb5hb&rid=giphy.gif&ct=g">
+  <img align="right" alt="Mateus-code" height="128" width="212" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif">
 </div>
 
   ##
