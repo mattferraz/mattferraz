@@ -21,6 +21,7 @@
   ##
 
 <div> 
+  <a href = "https://gitlab.com/mattferraz"><img src="https://img.shields.io/badge/GitLab-%23333?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mateushsferraz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://t.me/mattferraz"><img src="https://img.shields.io/badge/Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href = "mailto:mtshs.ferraz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
