@@ -4,7 +4,7 @@
 - 🌠 21 years old
 - 🇧🇷 Brazilian
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mattferraz&show_icons=true&hide_border=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+<!--   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mattferraz&show_icons=true&hide_border=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/> -->
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mattferraz&theme=ayu-mirage&hide_border=true&date_format=[Y.]n.j" alt="mattferraz's GitHub Streaks" />
 </div>
 <div style="display: inline_block"><br>
