@@ -26,6 +26,6 @@
   <a href = "https://t.me/mattferraz"><img src="https://img.shields.io/badge/Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href = "mailto:mtshs.ferraz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/mattferraz/mattferraz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mattferraz/mattferraz/blob/output/github-snake-dark.svg)
   
 <div/>
