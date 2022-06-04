@@ -15,7 +15,7 @@
   <img align="center" alt="Mateus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Mateus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <!--   <img align="right" alt="Mateus-code" height="132" width="132" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> -->
-<!--   <img align="right" alt="Mateus-code" height="132" width="132" src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif"> -->
+  <img align="right" alt="Mateus-code" height="132" width="132" src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif">
 </div>
 
   ##
